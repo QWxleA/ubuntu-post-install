@@ -10,19 +10,19 @@ source $dir/functions/apps/dropbox
 source $dir/functions/apps/flatpak
 source $dir/functions/apps/google-chrome
 source $dir/functions/apps/inkscape
-source $dir/functions/apps/mattermost
-source $dir/functions/apps/minecraft
-source $dir/functions/apps/oracle-java
-source $dir/functions/apps/peek
-source $dir/functions/apps/pia
-source $dir/functions/apps/plex
-source $dir/functions/apps/riot
-source $dir/functions/apps/rvm
-source $dir/functions/apps/slack
+#source $dir/functions/apps/mattermost
+#source $dir/functions/apps/minecraft
+#source $dir/functions/apps/oracle-java
+#source $dir/functions/apps/peek
+#source $dir/functions/apps/pia
+#source $dir/functions/apps/plex
+#source $dir/functions/apps/riot
+#source $dir/functions/apps/rvm
+#source $dir/functions/apps/slack
 source $dir/functions/apps/spotify
 source $dir/functions/apps/steam
-source $dir/functions/apps/sublime-text
-source $dir/functions/apps/synergy
+#source $dir/functions/apps/sublime-text
+#source $dir/functions/apps/synergy
 
 # Install Third-Party Applications
 function thirdparty {

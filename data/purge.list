@@ -12,7 +12,7 @@ overlay-scrollbar-gtk2
 overlay-scrollbar-gtk3
 remmina
 rhythmbox
-shotwell
+#shotwell
 thunderbird
 ubuntu-system-settings
 unity-scope-calculator
